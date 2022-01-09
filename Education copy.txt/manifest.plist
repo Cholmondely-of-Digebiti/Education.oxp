@@ -1,0 +1,17 @@
+{
+	"identifier" = "oolite.oxp.Cholmondely.Education";
+	"required_oolite_version" = "1.79";
+	"title" = "Education";
+	"version" = "0.1.1";
+	"category" = "Activities";
+	"description" = "Educational environment on space stations: visit the bar and eavesdrop on experienced pilots, useful GNN broadcasts";
+	"author" = "Cholmondely, Littlebear";
+	"information_url" = "http://wiki.alioth.net/index.php/Education OXP";
+	"license" = "CC BY-NC-SA 4";
+	"optional_oxps" = (
+		{
+			"identifier" = "oolite.oxp.Norby.HDBG";
+			"description" = "HD Backgrounds";
+		}
+	);
+}

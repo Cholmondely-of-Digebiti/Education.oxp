@@ -1,6 +1,6 @@
 this.name           = "Education_Station_Bar.js";
 this.author         = "Cholmondely";
-this.copyright      = "(C) 2012 Cholmondely";
+this.copyright      = "(C) 2022 Cholmondely";
 this.licence        = "CC-NC-by-SA 4.0";
 this.description    = "This OXP does nothing at all yet.";
 this.version        = "0.1.1";

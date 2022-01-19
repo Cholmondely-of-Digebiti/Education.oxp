@@ -11,7 +11,7 @@ this.version        = "0.1.1";
 
 // Set Up your F4 Screen Option Like this:-
 
-this.shipDockedWithStation = function(station) {
+this.startUpComplete = this.shipDockedWithStation = function(station) {
 this.barinterface();
 }
 this.removebar = this.shipWillLaunchFromStation = function() {
@@ -35,6 +35,9 @@ mission.runScreen({
 title: "The Local Bar",
 screenID:"show_bar",
 var text = expandDescription("[education_bar_gossip]");
-message: text;
+message: 
+"... anyway, as the jump countdown hit one, some nutter in a Ferdie ran right across my bow. I pulled up hard on the 'stick to avoid the bastard... next thing I know, the bloody klaxon's wailing, and I'm in ghastly glowing green interstellar space surrounded by gooks!";
+background: "litf_bg_localbar.png", //This adds the bar image behind the message
+
 }
 

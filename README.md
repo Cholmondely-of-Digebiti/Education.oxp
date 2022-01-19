@@ -2,6 +2,8 @@
 
 For Oolite
 
+By Cholmondeley; LittleBear & Spara (programming); Redspear, Hiran, Murgh & Cody (gossip).
+
 An oxp adding the opportunity to visit a station bar and overhear some useful advice for success in Oolite
 
 Presuming that I can get this to work (ha!), I'd like to add choices of drinks, and then add GNN newsflashes to amplify a little more along these lines. This is currently little more than a cut & paste of LittleBear's suggestions. It does not yet work - just the one message with a bar picture. And not even that if you have XenonUI installed!

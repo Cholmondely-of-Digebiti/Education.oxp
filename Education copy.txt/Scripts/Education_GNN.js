@@ -2,12 +2,14 @@ this.name           = "Education_GNN.js";
 this.author         = "Cholmondely";
 this.copyright      = "(C) 2022 Cholmondely";
 this.licence        = "CC-NC-by-SA 4.0";
-this.description    = "This OXP doesn't do anything at all yet.";
-this.version        = "0.1.0";
+this.description    = "This .js file doesn't do anything at all yet.";
+this.version        = "0.0.0";
 
 "use strict";
 
-//Needs other stuff: Under this.startupcomplete set up a news variable as 0 if not already defined. This gives you an easy way to check that each news item in your script is only given once. Under exiting.hyperspace increment a timer each time a jump is made so you can spread out the flavour news items so they don't pop up all at once.
+//General Note. Not too sure what news items to add that would be genuinely educational and not come over as forced. But keeping this in the scripts folder just in case...
+
+//LittleBear's comments: Needs other stuff: Under this.startupcomplete set up a news variable as 0 if not already defined. This gives you an easy way to check that each news item in your script is only given once. Under exiting.hyperspace increment a timer each time a jump is made so you can spread out the flavour news items so they don't pop up all at once.
 
 //this.startUpComplete = function()
 //{

@@ -2,16 +2,16 @@
 	"identifier" = "oolite.oxp.Cholmondely.Education";
 	"required_oolite_version" = "1.79";
 	"title" = "Education";
-	"version" = "0.1.1";
+	"version" = "0.0.9";
 	"category" = "Activities";
-	"description" = "Educational environment on space stations: visit the bar and eavesdrop on experienced pilots, useful GNN broadcasts";
+	"description" = "Educational environment on space stations: visit the bar and eavesdrop on experienced pilots";
 	"author" = "Cholmondely, Littlebear, Spara, Redspear, Hiran, Murgh & Cody";
 	"information_url" = "http://wiki.alioth.net/index.php/Education OXP";
 	"license" = "CC BY-NC-SA 4";
-	"optional_oxps" = (
-		{
-			"identifier" = "oolite.oxp.Norby.HDBG";
-			"description" = "HD Backgrounds";
-		}
-	);
+//	"optional_oxps" = (
+//		{
+//			"identifier" = "oolite.oxp.Norby.HDBG";
+//			"description" = "HD Backgrounds";
+//		}
+//	);
 }

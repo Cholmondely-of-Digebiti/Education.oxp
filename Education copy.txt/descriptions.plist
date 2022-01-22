@@ -1,6 +1,6 @@
 {
 // This stuff is mostly Cholmondely's, chunks from Redspear & Avder, singular snippets from Hiran, Cody & the mighty Murgh
-// The code above is telling Oolite to randomly pick one of the messages you have set up in descriptions. So now set up your message list in descriptions like this:-
+// The code in the .js file is telling Oolite to randomly pick one of the messages you have set up in here descriptions.
 
 	"education_bar_gossip" =
 	(
